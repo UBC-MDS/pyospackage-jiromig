@@ -36,11 +36,11 @@ keywords = []
 dependencies = []
 
 [project.urls]
-Homepage = "https://github.com/UBC-MDS/pyospackage-jiromig"
-"Source Code" = "https://github.com/UBC-MDS/pyospackage-jiromig"
-"Bug Tracker" = "https://github.com/UBC-MDS/pyospackage-jiromig/issues"
-Documentation = "https://github.com/UBC-MDS/pyospackage-jiromig/blob/main/README.md"
-Download = "https://pypi.org/project/pyospackage-jiromig/#files"
+Homepage = "https://github.com/UBC-MDS/pyospackage_jiromig"
+"Source Code" = "https://github.com/UBC-MDS/pyospackage_jiromig"
+"Bug Tracker" = "https://github.com/UBC-MDS/pyospackage_jiromig/issues"
+Documentation = "https://github.com/UBC-MDS/pyospackage_jiromig/blob/main/README.md"
+Download = "https://pypi.org/project/pyospackage_jiromig/#files"
 
 [project.optional-dependencies]
 # The groups below should be in the [development-groups] table
