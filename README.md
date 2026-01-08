@@ -23,8 +23,8 @@ TODO: Add a brief example of how to use the package to this section
 To use pyospackage-jiromig in your code:
 
 ```python
->>> import pyospackage-jiromig
->>> pyospackage-jiromig.hello_world()
+>>> from pyospackage_jiromig import example
+>>> example.add_numbers(1, 2)
 ```
 
 ## Copyright
