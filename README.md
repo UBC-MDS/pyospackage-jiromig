@@ -15,7 +15,7 @@ pyospackage_jiromig is a project that (describe what it does here).
 You can install this package into your preferred Python environment using pip:
 
 ```bash
-$ pip install -i https://test.pypi.org/simple/ pyospackage_jiromig==0.1.0
+$ pip install -i https://test.pypi.org/simple/ pyospackage_jiromig==0.1.2
 ```
 
 TODO: Add a brief example of how to use the package to this section
