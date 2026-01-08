@@ -1,26 +1,26 @@
-# Welcome to pyospackage-jiromig
+# Welcome to pyospackage_jiromig
 
 |        |        |
 |--------|--------|
-| Package | [![Latest PyPI Version](https://img.shields.io/pypi/v/pyospackage-jiromig.svg)](https://pypi.org/project/pyospackage-jiromig/) [![Supported Python Versions](https://img.shields.io/pypi/pyversions/pyospackage-jiromig.svg)](https://pypi.org/project/pyospackage-jiromig/)  |
+| Package | [![Latest PyPI Version](https://img.shields.io/pypi/v/pyospackage_jiromig.svg)](https://pypi.org/project/pyospackage_jiromig/) [![Supported Python Versions](https://img.shields.io/pypi/pyversions/pyospackage_jiromig.svg)](https://pypi.org/project/pyospackage_jiromig/)  |
 | Meta   | [![Code of Conduct](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md) |
 
 *TODO: the above badges that indicate python version and package version will only work if your package is on PyPI.
 If you don't plan to publish to PyPI, you can remove them.*
 
-pyospackage-jiromig is a project that (describe what it does here).
+pyospackage_jiromig is a project that (describe what it does here).
 
 ## Get started
 
 You can install this package into your preferred Python environment using pip:
 
 ```bash
-$ pip install pyospackage-jiromig
+$ pip install pyospackage_jiromig
 ```
 
 TODO: Add a brief example of how to use the package to this section
 
-To use pyospackage-jiromig in your code:
+To use pyospackage_jiromig in your code:
 
 ```python
 >>> from pyospackage_jiromig import example
