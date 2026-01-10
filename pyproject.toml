@@ -36,10 +36,10 @@ keywords = []
 dependencies = []
 
 [project.urls]
-Homepage = "https://github.com/UBC-MDS/pyospackage_jiromig"
-"Source Code" = "https://github.com/UBC-MDS/pyospackage_jiromig"
-"Bug Tracker" = "https://github.com/UBC-MDS/pyospackage_jiromig/issues"
-Documentation = "https://github.com/UBC-MDS/pyospackage_jiromig/blob/main/README.md"
+Homepage = "https://github.com/jiroamato/pyospackage_jiromig"
+"Source Code" = "https://github.com/jiroamato/pyospackage_jiromig"
+"Bug Tracker" = "https://github.com/jiroamato/pyospackage_jiromig/issues"
+Documentation = "https://github.com/jiroamato/pyospackage_jiromig/blob/main/README.md"
 Download = "https://pypi.org/project/pyospackage_jiromig/#files"
 
 [project.optional-dependencies]
