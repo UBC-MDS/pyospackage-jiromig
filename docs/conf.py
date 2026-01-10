@@ -14,7 +14,7 @@ current_year = datetime.now().year
 
 # -- General project information -----------------------------
 # General information about the project.
-project = "pyospackage-jiromig"
+project = "pyospackage_jiromig"
 copyright = "Copyright © 2026 Jiro Amato"
 html_show_sphinx = False
 
@@ -133,7 +133,7 @@ html_theme = "pydata_sphinx_theme"
 # html_file_suffix = ''
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = "pyospackage-jiromig_doc"
+htmlhelp_basename = "pyospackage_jiromig_doc"
 
 
 intersphinx_mapping = {
